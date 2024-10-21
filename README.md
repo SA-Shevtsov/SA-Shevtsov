@@ -8,8 +8,8 @@ PHOTOSHOP;
 HTML, 
 ![css](img/css.png)
 CSS,
-(![sass](img/sass.png)
-SASS),
+![sass](img/sass.png)
+SASS,
 ![js](img/js.png)
 JS;
 =
