@@ -9,7 +9,7 @@ HTML,
 ![css](img/css.png)
 CSS,
 ![sass](img/sass.png)
-SASS,
+SCSS,
 ![js](img/js.png)
 JS;
 =
